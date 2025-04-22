@@ -1,3 +1,3 @@
 ﻿  lab4ob.cpp
-C:\Users\MSI\Desktop\Лабы\Лабы программирование\lab4ob\lab4ob\lab4ob.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  lab4ob.vcxproj -> C:\Users\MSI\Desktop\Лабы\Лабы программирование\lab4ob\x64\Debug\lab4ob.exe
+C:\Users\MSI\Desktop\lb8\FinalWork\lab4ob\lab4ob.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab4ob.vcxproj -> C:\Users\MSI\Desktop\lb8\FinalWork\x64\Debug\lab4ob.exe

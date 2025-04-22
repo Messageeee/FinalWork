@@ -76,7 +76,7 @@ int main()
         }
     }
     printf("Матрица:\n");
-    for (int i = 0; i < 15; i++) {
+    for (int i = 0; i < 15; i++) {   //Подсчет суммы
         for (int j = 0; j < 15; j++) {
             printf("%3d ", M[i][j]);
         }
