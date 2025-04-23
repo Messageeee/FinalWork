@@ -2,7 +2,11 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
+<<<<<<< HEAD
       <FullPath>C:\Users\MSI\Desktop\lb8\FinalWork\x64\Debug\lab4ob.exe</FullPath>
+=======
+      <FullPath>C:\Users\MSI\Desktop\lba8\x64\Debug\lab4ob.exe</FullPath>
+>>>>>>> main
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

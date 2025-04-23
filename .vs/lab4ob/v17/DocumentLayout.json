@@ -1,9 +1,16 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\lb8\\FinalWork\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{C4E9A93B-27EE-4D83-A399-EE32989CCC5A}|lab4ob\\lab4ob.vcxproj|C:\\Users\\MSI\\Desktop\\lb8\\FinalWork\\lab4ob\\lab4ob.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\lba8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E9A93B-27EE-4D83-A399-EE32989CCC5A}|lab4ob\\lab4ob.vcxproj|C:\\Users\\MSI\\Desktop\\lba8\\lab4ob\\lab4ob.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+>>>>>>> main
       "RelativeMoniker": "D:0:0:{C4E9A93B-27EE-4D83-A399-EE32989CCC5A}|lab4ob\\lab4ob.vcxproj|solutionrelative:lab4ob\\lab4ob.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +27,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "lab4ob.cpp",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\lb8\\FinalWork\\lab4ob\\lab4ob.cpp",
               "RelativeDocumentMoniker": "lab4ob\\lab4ob.cpp",
               "ToolTip": "C:\\Users\\MSI\\Desktop\\lb8\\FinalWork\\lab4ob\\lab4ob.cpp",
               "RelativeToolTip": "lab4ob\\lab4ob.cpp",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAFMAAAAFAAAAAAAAAA==",
+=======
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\lba8\\lab4ob\\lab4ob.cpp",
+              "RelativeDocumentMoniker": "lab4ob\\lab4ob.cpp",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\lba8\\lab4ob\\lab4ob.cpp",
+              "RelativeToolTip": "lab4ob\\lab4ob.cpp",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwFQAAAAnAAAAAAAAAA==",
+>>>>>>> main
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-17T19:59:05.527Z",
               "EditorCaption": ""
